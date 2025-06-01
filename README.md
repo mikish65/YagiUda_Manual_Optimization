@@ -5,10 +5,10 @@ Optimizing Yag Uda Antenna manually, adjusting the lengths and spacings, and dir
 ### Introduction
 The Yagi Uda Antenna is primarily meant for high directivity pattern uses, meaning it requires the gain to be significantly focused in one direction instead of any other.
 The set reference values for viewing the deviation from baseline of the antenna characteristics are:
-•	Reflector Spacing (RS)= 0.25lambda
-•	Reflector Length (RL)= 0.55lambda
-•	Director Spacing (DS)= 0.2lambda (1 1 1)
-•	Director Length (DL)= 0.45lambda (1 1 1)
+  ###### •	Reflector Spacing (RS)= 0.25lambda
+  ###### •	Reflector Length (RL)= 0.55lambda
+  ######  •	Director Spacing (DS)= 0.2lambda (1 1 1)
+  ###### •	Director Length (DL)= 0.45lambda (1 1 1)
 The Exciter is a folded dipole and there are 3 directors aligned in front of it and one reflector behind it.
 
 ### Discussion
@@ -29,9 +29,9 @@ Note: If director length ever equals or is greater than reflector length, a larg
 ### Conclusion
 The best Yagi Uda antenna consists of a director length significantly reduced with respect to the reflector length, and both the reflector and director spacings being reduced.
 In this case the ideal values now are:
-•	Reflector Spacing (RS)= 0.15lambda -- Reduced
-•	Reflector Length (RL)= 0.55lambda -- Unchanged
-•	Director Spacing (DS)= 0.1lambda (1 1 1) -- Reduced
-•	Director Length (DL)= 0.15lambda (1 1 1) –Reduced
-•	Directors = 4
+ ###### •	Reflector Spacing (RS)= 0.15lambda -- Reduced
+ ###### •	Reflector Length (RL)= 0.55lambda -- Unchanged
+ ######  •	Director Spacing (DS)= 0.1lambda (1 1 1) -- Reduced
+ ######  •	Director Length (DL)= 0.15lambda (1 1 1) –Reduced
+ ###### •	Directors = 4
 
