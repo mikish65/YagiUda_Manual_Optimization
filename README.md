@@ -2,7 +2,7 @@
 Optimizing Yag Uda Antenna manually, adjusting the lengths and spacings, and directors 
 ## Overview
 
-###Introduction
+### Introduction
 The Yagi Uda Antenna is primarily meant for high directivity pattern uses, meaning it requires the gain to be significantly focused in one direction instead of any other.
 The set reference values for viewing the deviation from baseline of the antenna characteristics are:
 •	Reflector Spacing (RS)= 0.25lambda
